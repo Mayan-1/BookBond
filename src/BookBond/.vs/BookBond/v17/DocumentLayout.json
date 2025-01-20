@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\BookBond\\src\\BookBond\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3E738E-C64B-405E-9359-85D55F23D903}|BookBond.Infra\\BookBond.Infra.csproj|c:\\dev\\bookbond\\src\\bookbond\\bookbond.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3E738E-C64B-405E-9359-85D55F23D903}|BookBond.Infra\\BookBond.Infra.csproj|solutionrelative:bookbond.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2972B4F-87FD-4E47-AA05-F4B2360F8D96}|BookBond.Core\\BookBond.Core.csproj|c:\\dev\\bookbond\\src\\bookbond\\bookbond.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2972B4F-87FD-4E47-AA05-F4B2360F8D96}|BookBond.Core\\BookBond.Core.csproj|solutionrelative:bookbond.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Infra\\Class1.cs",
+              "RelativeDocumentMoniker": "BookBond.Infra\\Class1.cs",
+              "ToolTip": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Infra\\Class1.cs",
+              "RelativeToolTip": "BookBond.Infra\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:35:06.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "BookBond.Core\\Class1.cs",
+              "ToolTip": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Core\\Class1.cs",
+              "RelativeToolTip": "BookBond.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:34:30.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
