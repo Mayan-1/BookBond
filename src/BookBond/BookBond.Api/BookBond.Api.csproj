@@ -4,10 +4,43 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>92d05128-a651-495c-8c83-180243181b22</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="WeatherForecast.cs" />
+    <Compile Remove="Controllers\WeatherForecastController.cs" />
+    <Compile Remove="Extensions\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookBond.Infra\BookBond.Infra.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\BookBond.Core\BookBond.Core.csproj" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Extensions\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Extensions\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Extensions\**" />
   </ItemGroup>
 
 </Project>

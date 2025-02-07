@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("92d05128-a651-495c-8c83-180243181b22")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookBond.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed091b5f6fba8641f34fb498390274735e9ebf68")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookBond.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookBond.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

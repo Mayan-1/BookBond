@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\dev\\BookBond\\src\\BookBond\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C3E738E-C64B-405E-9359-85D55F23D903}|BookBond.Infra\\BookBond.Infra.csproj|c:\\dev\\bookbond\\src\\bookbond\\bookbond.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3E738E-C64B-405E-9359-85D55F23D903}|BookBond.Infra\\BookBond.Infra.csproj|solutionrelative:bookbond.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{656D56B6-8F5D-4EE1-94ED-971B0EC3BEF0}|BookBond.Api\\BookBond.Api.csproj|c:\\dev\\bookbond\\src\\bookbond\\bookbond.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{656D56B6-8F5D-4EE1-94ED-971B0EC3BEF0}|BookBond.Api\\BookBond.Api.csproj|solutionrelative:bookbond.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2972B4F-87FD-4E47-AA05-F4B2360F8D96}|BookBond.Core\\BookBond.Core.csproj|c:\\dev\\bookbond\\src\\bookbond\\bookbond.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2972B4F-87FD-4E47-AA05-F4B2360F8D96}|BookBond.Core\\BookBond.Core.csproj|solutionrelative:bookbond.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00AAF8BA-C3AD-4FB0-9E00-464EFC0504EC}|docker-compose.dcproj|c:\\dev\\bookbond\\src\\bookbond\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00AAF8BA-C3AD-4FB0-9E00-464EFC0504EC}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3E738E-C64B-405E-9359-85D55F23D903}|BookBond.Infra\\BookBond.Infra.csproj|c:\\dev\\bookbond\\src\\bookbond\\bookbond.infra\\migrations\\20250207144611_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3E738E-C64B-405E-9359-85D55F23D903}|BookBond.Infra\\BookBond.Infra.csproj|solutionrelative:bookbond.infra\\migrations\\20250207144611_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Infra\\Class1.cs",
-              "RelativeDocumentMoniker": "BookBond.Infra\\Class1.cs",
-              "ToolTip": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Infra\\Class1.cs",
-              "RelativeToolTip": "BookBond.Infra\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T18:35:06.734Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BookBond.Api\\appsettings.json",
+              "ToolTip": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Api\\appsettings.json",
+              "RelativeToolTip": "BookBond.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T14:53:53.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Core\\Class1.cs",
-              "RelativeDocumentMoniker": "BookBond.Core\\Class1.cs",
-              "ToolTip": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Core\\Class1.cs",
-              "RelativeToolTip": "BookBond.Core\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\dev\\BookBond\\src\\BookBond\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\dev\\BookBond\\src\\BookBond\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-07T14:53:36.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250207144611_Initial.cs",
+              "DocumentMoniker": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Infra\\Migrations\\20250207144611_Initial.cs",
+              "RelativeDocumentMoniker": "BookBond.Infra\\Migrations\\20250207144611_Initial.cs",
+              "ToolTip": "C:\\dev\\BookBond\\src\\BookBond\\BookBond.Infra\\Migrations\\20250207144611_Initial.cs",
+              "RelativeToolTip": "BookBond.Infra\\Migrations\\20250207144611_Initial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T18:34:30.721Z",
+              "WhenOpened": "2025-02-07T14:46:22.363Z",
               "EditorCaption": ""
             }
           ]

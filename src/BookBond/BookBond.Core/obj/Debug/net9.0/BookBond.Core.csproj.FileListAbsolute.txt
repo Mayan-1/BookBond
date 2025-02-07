@@ -1,0 +1,12 @@
+C:\dev\BookBond\src\BookBond\BookBond.Core\bin\Debug\net9.0\BookBond.Core.deps.json
+C:\dev\BookBond\src\BookBond\BookBond.Core\bin\Debug\net9.0\BookBond.Core.dll
+C:\dev\BookBond\src\BookBond\BookBond.Core\bin\Debug\net9.0\BookBond.Core.pdb
+C:\dev\BookBond\src\BookBond\BookBond.Core\obj\Debug\net9.0\BookBond.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\BookBond\src\BookBond\BookBond.Core\obj\Debug\net9.0\BookBond.Core.AssemblyInfoInputs.cache
+C:\dev\BookBond\src\BookBond\BookBond.Core\obj\Debug\net9.0\BookBond.Core.AssemblyInfo.cs
+C:\dev\BookBond\src\BookBond\BookBond.Core\obj\Debug\net9.0\BookBond.Core.csproj.CoreCompileInputs.cache
+C:\dev\BookBond\src\BookBond\BookBond.Core\obj\Debug\net9.0\BookBond.Core.sourcelink.json
+C:\dev\BookBond\src\BookBond\BookBond.Core\obj\Debug\net9.0\BookBond.Core.dll
+C:\dev\BookBond\src\BookBond\BookBond.Core\obj\Debug\net9.0\refint\BookBond.Core.dll
+C:\dev\BookBond\src\BookBond\BookBond.Core\obj\Debug\net9.0\BookBond.Core.pdb
+C:\dev\BookBond\src\BookBond\BookBond.Core\obj\Debug\net9.0\ref\BookBond.Core.dll

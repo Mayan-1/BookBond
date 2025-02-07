@@ -1,0 +1,27 @@
+services:
+  bookbond.api:
+    image: ${DOCKER_REGISTRY-}bookbondapi
+    container_name: bookbond.api
+    build:
+      context: .
+      dockerfile: BookBond.Api/Dockerfile
+    ports:
+        - "5000:5000"
+        - "5001:5001"
+
+  database.bookbond:
+    image: postgres:latest
+    container_name: database.bookbond
+    environment:
+       - POSTGRES_DB=bookbondDB
+       - POSTGRES_USER=user123
+       - POSTGRES_PASSWORD=pass123
+    volumes:
+       - db-bookbond:/var/lib/postgresql/data
+    ports:
+       - 5432:5432
+  
+volumes:
+  db-bookbond:
+
+  

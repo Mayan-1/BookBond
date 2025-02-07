@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PcS3n7d5J2xE4yxNJRTjxQ4ZoklLO+aspkoYKlNiYMg=",
+  "Source": "BookBond.Api",
+  "BasePath": "_content/BookBond.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

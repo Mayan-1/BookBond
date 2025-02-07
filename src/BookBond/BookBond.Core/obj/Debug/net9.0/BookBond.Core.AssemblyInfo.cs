@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookBond.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed091b5f6fba8641f34fb498390274735e9ebf68")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookBond.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookBond.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

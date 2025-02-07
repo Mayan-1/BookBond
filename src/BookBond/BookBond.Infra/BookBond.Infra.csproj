@@ -6,4 +6,32 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Extensions\MigrationsExtensions.cs" />
+    <Compile Remove="Extensions\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookBond.Core\BookBond.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Extensions\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Extensions\**" />
+  </ItemGroup>
+
 </Project>
